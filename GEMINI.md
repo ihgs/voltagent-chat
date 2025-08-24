@@ -7,9 +7,9 @@ This document outlines the development guidelines and conventions for this proje
 - **Formatting:** We use [Prettier](https://prettier.io/) to automate code formatting.
 - **Linting:** We use [ESLint](https://eslint.org/) and adhere to the rules defined in `eslint.config.js`.
 - **Naming Conventions:**
-    - Components: `PascalCase` (e.g., `MyComponent.tsx`)
-    - Variables/Functions: `camelCase` (e.g., `myVariable`, `myFunction`)
-    - Type Definitions: `PascalCase` (e.g., `type UserProfile = { ... }`)
+  - Components: `PascalCase` (e.g., `MyComponent.tsx`)
+  - Variables/Functions: `camelCase` (e.g., `myVariable`, `myFunction`)
+  - Type Definitions: `PascalCase` (e.g., `type UserProfile = { ... }`)
 
 ## 2. Technology Stack
 
